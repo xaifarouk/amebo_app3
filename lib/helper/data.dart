@@ -16,7 +16,7 @@ List<CategoryModel> getCategories(){
   categoryModel.imageUrl  =   "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" ;
   category.add (categoryModel);
 
-  //3
+  //3--
   categoryModel = new CategoryModel();
   categoryModel.categoryName  =   "General" ;
   categoryModel.imageUrl  =   "https://images.unsplash.com/photo-1495020689067-958852a7765e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" ;
